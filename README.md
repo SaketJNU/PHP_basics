@@ -12,3 +12,4 @@ $cfg['Servers'][$i]['password']     = '';
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 ``` 
 [Here no password is set]
+Thanks
